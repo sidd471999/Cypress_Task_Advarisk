@@ -27,6 +27,7 @@ class CartPage {
       }
     });
   }
+  //
 
   //remove  Product from cart
   RemoveItemfromCart(Product_Name) {
